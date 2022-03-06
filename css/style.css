@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana sans-serif;
+  font-size: 1.1em;
+}
+
+h1 {
+  padding: 2px;
+  margin: 0;
+}
+
+p {
+  padding: 2px;
+  margin: 0;
+}
+.pg {
+  color: green;
+  padding-bottom: 20px;
+}
+
+.pg-2 {
+  color: red;
+}
